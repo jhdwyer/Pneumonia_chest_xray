@@ -67,7 +67,7 @@ Some furture steps to improve the model include:
 ## Repository Structure
 ```
 ├── best_models
-├── data/chest_xrays/chest_xrays
+├── data
 ├── images
 ├── notebooks
 ├── Final_Notebook.ipynb
