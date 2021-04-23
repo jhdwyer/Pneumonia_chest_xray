@@ -63,3 +63,14 @@ Some furture steps to improve the model include:
   - Running more models to try and improve Recall score
   - Trying other techniques to minimize overfitting, such as batch normalization
   - Implementing transfer learning models
+
+## Repository Structure
+```
+├── best_models
+├── data/chest_xrays/chest_xrays
+├── images
+├── notebooks
+├── Final_Notebook.ipynb
+├── Presentation.pdf
+└── README.md
+```
